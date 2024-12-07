@@ -1,14 +1,14 @@
-import Category from "@/Components/Category";
-import Featured from "@/Components/Featured";
-import Footer from "@/Components/Footer";
-import Header from "@/Components/Header";
-import Hero from "@/Components/Hero";
-import MusicBox from "@/Components/MusicBox";
-import Product from "@/Components/Product";
-import Sales from "@/Components/Sales";
-import SecFooter from "@/Components/SecFooter";
-import SecProduct from "@/Components/SecProduct";
-import TopHeader from "@/Components/TopHeader";
+import Category from "@/components/Category";
+import Featured from "@/components/Featured";
+import Footer from "@/components/Footer";
+import Header from "@/components/Header";
+import Hero from "@/components/Hero";
+import MusicBox from "@/components/MusicBox";
+import Product from "@/components/Product";
+import Sales from "@/components/Sales";
+import SecFooter from "@/components/SecFooter";
+import SecProduct from "@/components/SecProduct";
+import TopHeader from "@/components/TopHeader";
 
 export default function Home() {
   return (
